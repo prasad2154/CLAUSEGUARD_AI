@@ -1,0 +1,117 @@
+NON-DISCLOSURE AGREEMENT (HIGH RISK VERSION)
+FOR TESTING CLAUSEGUARD AI — CONTAINS INTENTIONAL RISK CLAUSES
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of December 1, 2024 by and between:
+
+Dominant Corp, a Delaware corporation ("Disclosing Party")
+
+and
+
+StartupXYZ Inc., a California corporation ("Receiving Party")
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. CONFIDENTIAL INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1 For purposes of this Agreement, "Confidential Information" means any and all
+information or data that has or could have commercial value or other utility in the
+business in which Disclosing Party is engaged. If Confidential Information is in
+written form, the Disclosing Party shall label or stamp the materials with the word
+"Confidential" or some similar warning. If Confidential Information is transmitted
+orally, the Disclosing Party shall promptly provide a writing indicating that such
+oral communication constituted Confidential Information. Notwithstanding the foregoing,
+Dominant Corp reserves the right to deem ANY information disclosed during discussions
+as Confidential, regardless of whether it is marked as such.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. NON-DISCLOSURE OBLIGATIONS (ASYMMETRIC — RISK CLAUSE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 The Receiving Party agrees to: (a) hold all Confidential Information in the
+strictest confidence; (b) not use or disclose Confidential Information to any third
+party without Dominant Corp's prior written consent; (c) protect Confidential
+Information with no less than the highest degree of care possible; and
+(d) immediately notify Dominant Corp of any unauthorized disclosure.
+
+NOTE: The obligations in this Agreement are one-way. Dominant Corp may use any
+information provided by StartupXYZ Inc. for any purpose, including competitive
+intelligence and product development, without restriction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. TERM (PERPETUAL — RISK CLAUSE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 This Agreement and the obligations herein shall remain in effect IN PERPETUITY
+without time limitation. The Receiving Party acknowledges that the obligation to
+maintain Confidential Information in confidence shall survive indefinitely and shall
+not be subject to any statute of limitations or laches defense.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. NON-COMPETE (BROAD — RISK CLAUSE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 During the term of this Agreement and for a period of five (5) years thereafter,
+Receiving Party and all of its employees, officers, directors, shareholders, and
+affiliates agree not to, directly or indirectly, engage in, manage, operate, control,
+be employed by, provide services to, participate in, or be connected with any business
+or individual that competes in any manner whatsoever with any business that Dominant Corp
+is engaged in or planning to be engaged in, anywhere in the world.
+
+4.2 StartupXYZ Inc. agrees not to hire, solicit, or encourage any employee of Dominant Corp
+to leave their employment for a period of five (5) years from the date of this Agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. LIABILITY AND REMEDIES (UNCAPPED — RISK CLAUSE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 Receiving Party acknowledges that any breach of this Agreement shall result in
+irreparable harm to Dominant Corp for which monetary damages would be inadequate.
+Accordingly, in addition to all other remedies available, Dominant Corp shall be entitled
+to equitable relief including injunction and specific performance.
+
+5.2 In the event of any breach or threatened breach, Receiving Party shall be liable
+for any and all damages suffered by Dominant Corp, WITHOUT ANY LIMITATION OR CAP,
+including without limitation lost profits, lost business opportunity, reputational harm,
+and all consequential or punitive damages, plus attorneys' fees and costs.
+
+5.3 The Receiving Party also agrees to indemnify, defend, and hold harmless Dominant Corp
+and its affiliates, officers, directors, employees, and agents from any and all claims,
+damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees)
+arising out of or resulting from any breach or alleged breach of this Agreement by the
+Receiving Party, regardless of the nature or basis of such claim.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. IP OWNERSHIP (ASSIGNMENT — RISK CLAUSE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1 Any ideas, concepts, inventions, or improvements that Receiving Party develops
+as a result of exposure to Dominant Corp's Confidential Information shall be
+immediately and automatically assigned to Dominant Corp. Receiving Party waives
+all moral rights in any such intellectual property and agrees to sign any documents
+necessary to confirm such assignment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. UNILATERAL AMENDMENT RIGHT (RISK CLAUSE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7.1 Dominant Corp reserves the right to modify the terms of this Agreement at any
+time in its sole discretion by providing notice to Receiving Party. Receiving Party's
+continued use of any Confidential Information shall constitute acceptance of any
+such modifications.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. GOVERNING LAW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8.1 This Agreement shall be governed by the laws of the State of Delaware. Any
+disputes arising under this Agreement shall be resolved exclusively through litigation
+in the courts of Delaware. Receiving Party hereby waives any right to jury trial.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+DOMINANT CORP                             STARTUPXYZ INC.
+
+By: _____________________________         By: _____________________________
+Name: Victor Hart                         Name: Emma Chen
+Title: General Counsel                    Title: CEO
+Date: December 1, 2024                    Date: December 1, 2024

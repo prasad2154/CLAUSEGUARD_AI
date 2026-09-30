@@ -1,0 +1,206 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 1, 2025, by and between:
+
+Acme Technologies Inc., a Delaware corporation, with its principal place of business at
+1234 Innovation Drive, San Francisco, CA 94105 ("Client")
+
+and
+
+TechVendor Solutions LLC, a Delaware limited liability company, with its principal place
+of business at 5678 Enterprise Avenue, Austin, TX 78701 ("Vendor").
+
+═══════════════════════════════════════════════════════════════════════════════════
+1. SCOPE OF SERVICES
+═══════════════════════════════════════════════════════════════════════════════════
+
+1.1 Services. Vendor shall provide software development and IT consulting services
+as set forth in each Statement of Work ("SOW") mutually agreed upon and executed by
+the parties from time to time. Each SOW is hereby incorporated by reference into
+this Agreement.
+
+1.2 Changes. Any changes to a SOW must be agreed upon in writing by both parties
+before implementation. Changes may result in additional fees or extensions of time.
+
+═══════════════════════════════════════════════════════════════════════════════════
+2. TERM AND TERMINATION
+═══════════════════════════════════════════════════════════════════════════════════
+
+2.1 Term. This Agreement shall commence on the Effective Date and continue for a
+period of twelve (12) months, unless earlier terminated in accordance with this
+Agreement ("Initial Term"). Thereafter, this Agreement shall automatically renew
+for successive one (1) year terms unless either party provides written notice of
+non-renewal at least sixty (60) days prior to the end of the then-current term.
+
+2.2 Termination for Convenience. Either party may terminate this Agreement or any
+SOW for any reason or no reason upon thirty (30) days' prior written notice to the
+other party.
+
+2.3 Termination for Cause. Either party may immediately terminate this Agreement
+upon written notice if the other party materially breaches this Agreement and fails
+to cure such breach within fifteen (15) days after receiving written notice of such
+breach.
+
+2.4 Effect of Termination. Upon termination or expiration, Vendor shall promptly
+deliver to Client all completed work product and any work in progress. Client shall
+pay for all services rendered and expenses incurred through the effective date of
+termination.
+
+═══════════════════════════════════════════════════════════════════════════════════
+3. PAYMENT TERMS
+═══════════════════════════════════════════════════════════════════════════════════
+
+3.1 Fees. Client agrees to pay Vendor the fees as set forth in each applicable SOW.
+
+3.2 Invoicing. Vendor shall invoice Client on a monthly basis. All invoices are due
+and payable within thirty (30) days of the invoice date.
+
+3.3 Late Payments. Invoices not paid within thirty (30) days shall accrue interest
+at the rate of one and one-half percent (1.5%) per month, or the maximum rate
+permitted by applicable law, whichever is less.
+
+3.4 Expenses. Client shall reimburse Vendor for all reasonable out-of-pocket expenses
+incurred in connection with the Services, provided such expenses are approved in
+writing by Client in advance and documented with appropriate receipts.
+
+═══════════════════════════════════════════════════════════════════════════════════
+4. INTELLECTUAL PROPERTY
+═══════════════════════════════════════════════════════════════════════════════════
+
+4.1 Work Product Ownership. All work product, inventions, developments, improvements,
+and other deliverables created by Vendor specifically for Client under this Agreement
+("Work Product") shall be deemed works made for hire and shall be owned solely by
+Client. To the extent any Work Product does not constitute a work made for hire,
+Vendor hereby assigns to Client all right, title, and interest in such Work Product.
+
+4.2 Pre-Existing IP. Vendor retains all rights in its pre-existing tools, methodologies,
+frameworks, and intellectual property ("Vendor IP"). Vendor grants Client a non-exclusive,
+perpetual, royalty-free license to use any Vendor IP incorporated into the Work Product
+solely to the extent necessary to use the Work Product.
+
+═══════════════════════════════════════════════════════════════════════════════════
+5. CONFIDENTIALITY
+═══════════════════════════════════════════════════════════════════════════════════
+
+5.1 Confidential Information. Each party ("Receiving Party") may receive or have
+access to confidential or proprietary information of the other party ("Disclosing
+Party") ("Confidential Information"). Confidential Information includes, without
+limitation, business plans, technical data, financial information, and customer lists.
+
+5.2 Non-Disclosure. The Receiving Party agrees to: (a) hold Confidential Information
+in strict confidence; (b) use Confidential Information only for purposes of performing
+obligations under this Agreement; and (c) disclose Confidential Information only to
+those employees or contractors who need to know such information and are bound by
+confidentiality obligations at least as protective as those herein.
+
+5.3 Duration. These confidentiality obligations shall survive termination of this
+Agreement for a period of three (3) years; provided, however, that obligations with
+respect to trade secrets shall continue for so long as such information constitutes
+a trade secret under applicable law.
+
+═══════════════════════════════════════════════════════════════════════════════════
+6. LIMITATION OF LIABILITY
+═══════════════════════════════════════════════════════════════════════════════════
+
+6.1 Exclusion of Consequential Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO
+THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR
+CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS, LOSS OF DATA, OR LOSS OF BUSINESS
+OPPORTUNITY, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6.2 Liability Cap. EACH PARTY'S AGGREGATE LIABILITY TO THE OTHER PARTY FOR ALL CLAIMS
+ARISING UNDER OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT, OR OTHERWISE,
+SHALL NOT EXCEED THE TOTAL FEES PAID OR PAYABLE BY CLIENT TO VENDOR DURING THE TWELVE
+(12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+═══════════════════════════════════════════════════════════════════════════════════
+7. INDEMNIFICATION
+═══════════════════════════════════════════════════════════════════════════════════
+
+7.1 Mutual Indemnification. Each party ("Indemnifying Party") shall defend, indemnify,
+and hold harmless the other party and its officers, directors, employees, and agents
+from and against any third-party claims, damages, losses, and expenses (including
+reasonable attorneys' fees) arising out of or relating to the Indemnifying Party's:
+(a) gross negligence or willful misconduct; or (b) material breach of this Agreement.
+
+7.2 IP Indemnification by Vendor. Vendor shall indemnify Client against third-party
+claims that the Services or Work Product infringe any third-party intellectual property
+rights, unless such infringement arises from Client's modifications to the Work Product.
+
+═══════════════════════════════════════════════════════════════════════════════════
+8. REPRESENTATIONS AND WARRANTIES
+═══════════════════════════════════════════════════════════════════════════════════
+
+8.1 Vendor Warranties. Vendor represents and warrants that: (a) it has the full right,
+power, and authority to enter into this Agreement; (b) the Services shall be performed
+in a professional and workmanlike manner consistent with industry standards; and
+(c) to Vendor's knowledge, the Work Product shall not infringe any third-party IP.
+
+8.2 Client Warranties. Client represents and warrants that it has the full right, power,
+and authority to enter into this Agreement and to grant the rights granted herein.
+
+8.3 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH HEREIN, NEITHER PARTY MAKES ANY
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+═══════════════════════════════════════════════════════════════════════════════════
+9. DISPUTE RESOLUTION
+═══════════════════════════════════════════════════════════════════════════════════
+
+9.1 Negotiation. In the event of any dispute, the parties shall first attempt to
+resolve the dispute through good-faith negotiation between senior representatives of
+each party for a period of thirty (30) days.
+
+9.2 Arbitration. If the parties are unable to resolve the dispute through negotiation,
+the dispute shall be submitted to binding arbitration administered by the American
+Arbitration Association ("AAA") under its Commercial Arbitration Rules. The arbitration
+shall take place in San Francisco, California. The decision of the arbitrator shall
+be final and binding.
+
+═══════════════════════════════════════════════════════════════════════════════════
+10. GOVERNING LAW AND JURISDICTION
+═══════════════════════════════════════════════════════════════════════════════════
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance
+with the laws of the State of California, without regard to its conflict of laws
+principles.
+
+10.2 Jurisdiction. To the extent that any court action is permitted, the parties
+irrevocably consent to the exclusive jurisdiction of the state and federal courts
+located in San Francisco County, California.
+
+═══════════════════════════════════════════════════════════════════════════════════
+11. GENERAL PROVISIONS
+═══════════════════════════════════════════════════════════════════════════════════
+
+11.1 Entire Agreement. This Agreement, together with all SOWs, constitutes the entire
+agreement between the parties with respect to its subject matter and supersedes all
+prior agreements, representations, and understandings.
+
+11.2 Amendments. This Agreement may not be amended except by a written instrument
+signed by authorized representatives of both parties.
+
+11.3 Severability. If any provision of this Agreement is held invalid or unenforceable,
+such provision shall be modified to the minimum extent necessary to make it valid and
+enforceable, and the remainder of the Agreement shall continue in full force.
+
+11.4 Force Majeure. Neither party shall be liable for delays or failures in performance
+resulting from circumstances beyond that party's reasonable control, including natural
+disasters, acts of government, pandemics, or Internet disruptions.
+
+11.5 Assignment. Neither party may assign this Agreement without the prior written
+consent of the other party, except that either party may assign this Agreement in
+connection with a merger, acquisition, or sale of substantially all of its assets.
+
+11.6 Notices. All notices shall be in writing and delivered by email with confirmation
+of receipt, overnight courier, or certified mail to the addresses above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first
+written above.
+
+ACME TECHNOLOGIES INC.                    TECHVENDOR SOLUTIONS LLC
+
+By: _____________________________         By: _____________________________
+Name: John Smith                          Name: Sarah Johnson
+Title: Chief Executive Officer            Title: Chief Executive Officer
+Date: January 1, 2025                    Date: January 1, 2025

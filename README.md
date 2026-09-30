@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ClauseGuard AI
 
 **Agentic Contract Risk Detection & Review System**
@@ -291,6 +291,23 @@ python ../evaluation/ragas_eval.py \
 | `UPLOAD_DIR` | Directory for uploaded files | `./uploads` |
 | `MAX_FILE_SIZE_MB` | Upload size limit | `25` |
 | `CORS_ORIGINS` | Allowed CORS origins | `http://localhost:5173` |
+
+## Demo Images
+Dashboard Ui
+<img width="1841" height="862" alt="dashboard" src="https://github.com/user-attachments/assets/c0898d49-2fe4-4dd7-804e-253a5103336c" />
+Documents Uploded
+<img width="1856" height="857" alt="Screenshot 2026-09-30 230453" src="https://github.com/user-attachments/assets/ffd74927-dfa7-45b6-b1a9-32b15d6ecb5d" />
+Analysis Page
+<img width="1892" height="845" alt="analysis" src="https://github.com/user-attachments/assets/56776601-59eb-4833-be0d-81d7e8d9e115" />
+Comparision of Files
+<img width="1781" height="857" alt="comparision" src="https://github.com/user-attachments/assets/ab7cd1bb-d6c7-49e2-9f49-8e77fd251404" />
+Rules
+<img width="1746" height="862" alt="rules" src="https://github.com/user-attachments/assets/9931ccaa-b5cc-460f-9aa3-188cb5baa5dc" />
+
+
+
+
+
 
 ---
 

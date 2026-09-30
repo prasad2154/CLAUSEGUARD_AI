@@ -299,6 +299,9 @@ Documents Uploded
 <img width="1856" height="857" alt="Screenshot 2026-09-30 230453" src="https://github.com/user-attachments/assets/ffd74927-dfa7-45b6-b1a9-32b15d6ecb5d" />
 Analysis Page
 <img width="1892" height="845" alt="analysis" src="https://github.com/user-attachments/assets/56776601-59eb-4833-be0d-81d7e8d9e115" />
+Q/A chatbot
+<img width="417" height="732" alt="image" src="https://github.com/user-attachments/assets/a205a2ed-3ab1-436a-a00d-bd3337ec2cb3" />
+
 Comparision of Files
 <img width="1781" height="857" alt="comparision" src="https://github.com/user-attachments/assets/ab7cd1bb-d6c7-49e2-9f49-8e77fd251404" />
 Rules

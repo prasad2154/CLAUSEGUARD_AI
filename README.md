@@ -309,11 +309,7 @@ Rules
 
 
 
----
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
 =======
 # CLAUSEGUARD_AI
 >>>>>>> 9227441165c7e42e49f304facde3c71a06f00996
